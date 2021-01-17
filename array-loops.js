@@ -12,7 +12,7 @@ for (let i = 0; i < names.length; i++) {
     names[i] += "je";
 }
 
-console.log(names);
+console.log(names); //verwachte output ["Henkje", "Pietje", "Fredje", "Joopje"]
 // --------------------------
 // Opdracht 2
 // --------------------------
@@ -27,7 +27,7 @@ for (let i = 0; i < numbers.length; i++) {
     numbers[i] *= 3;
 }
 
-console.log(numbers);
+console.log(numbers); //verwachte output [ 6, 12, 15, 87, 114 ]
 // --------------------------
 // Opdracht 3
 // --------------------------
@@ -41,4 +41,4 @@ const figures = [4, 6, 12, 34, 1];
 for (let i = 0; i < figures.length; i++) {
     figures[i] += 3;
 }
-console.log(figures);
+console.log(figures); // verwachte output [ 7, 9, 15, 37, 4 ]
