@@ -41,4 +41,5 @@ const figures = [4, 6, 12, 34, 1];
 for (let i = 0; i < figures.length; i++) {
     figures[i] += 3;
 }
+
 console.log(figures);
